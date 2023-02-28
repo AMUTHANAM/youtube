@@ -1,0 +1,25 @@
+.navbarcolor{
+    background-color: rgb(0, 76, 255);
+
+}
+
+body{
+    background-color: rgb(61, 217, 18);
+}
+
+/*AIzaSyAhEmziqKZELYY0vbIFVfZab55Ih00XgSc */
+
+/*https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=weekend&key=AIzaSyAhEmziqKZELYY0vbIFVfZab55Ih00XgSc%20&maxResults=25 */
+
+.textcolour{
+    color: rgb(31, 5, 123);
+}
+
+.titlecolor{
+    color: rgb(230, 43, 6);
+}
+
+.cardcolor{
+    color: bisque;
+}
+
